@@ -1,4 +1,4 @@
-#Daire Carroll 2025 as part of the BIO214 course
+#Daire Carroll 2025 as part of the BIO214 course updated
 #Code to explore the influence of scramble and contest competition on populaiton growth
 
 scramble <- function(R,K,N0,t){
